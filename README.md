@@ -55,6 +55,7 @@ Could reduce overall churn by an estimated **15–20%**, recovering approximatel
 
 ## 📂 Project Structure
 
+```text
 telco-churn-retention-analysis/
 ├── data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
