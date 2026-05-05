@@ -55,13 +55,14 @@ Could reduce overall churn by an estimated **15–20%**, recovering approximatel
 
 ## 📂 Project Structure
 
+```
 telco-churn-retention-analysis/
 ├── data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ├── notebook/
 │   └── Churn_Analysis_Report.ipynb
 └── README.md
-
+```
 ---
 
 ## ▶️ How to Run
