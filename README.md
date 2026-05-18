@@ -48,9 +48,10 @@ Targeted retention actions:
 - Discounted long-term contract offers for month-to-month users
 - Proactive support and pricing review for Fiber Optic customers
 
-Could reduce overall churn by an estimated **15–20%**, recovering approximately 
-**$250K–$334K in annual revenue.**
-
+Industry benchmarks suggest targeted retention programs reduce 
+churn by 15–20%. Applied to this dataset, that represents a 
+potential recovery of **$250K–$334K** in annual revenue — 
+assuming consistent monthly revenue from retained customers.
 ---
 
 ## 📂 Project Structure
